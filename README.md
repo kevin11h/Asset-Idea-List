@@ -14,6 +14,8 @@ Intangible Value
 
 + Numbers, Math, Measurements, Quantity
 
++ Structure Organization
+
 + Religion
 
 + Reputation / Brand
