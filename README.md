@@ -35,3 +35,7 @@ Intangible Value
 + Beauty, Aesthetics, Enduring Value (durability)
 
 + Anti-Assets { Debt/Leverage , Irrationality, Fiction, Nonsense, Creative Destruction }
+
++ Notes.  Note taking
+
++ Questions -> Actions
