@@ -28,10 +28,10 @@ Intangible Value
 
 + Language / Communication, Writing
 
-+ Ideas, Publication, Production
++ Ideas, Publication, Production - Productivity.  Patents
 
-+ History / Past / Lost Artifacts
++ History / Past / Lost Artifacts.  History / Credit
 
-+ Beauty, Aesthetics
++ Beauty, Aesthetics, Enduring Value (durability)
 
 + Anti-Assets { Debt/Leverage , Irrationality, Fiction, Nonsense, Creative Destruction }
