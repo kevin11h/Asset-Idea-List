@@ -39,3 +39,5 @@ Intangible Value
 + Notes.  Note taking
 
 + ?Questions -> Actions
+
++  Re-Membership + Identity
