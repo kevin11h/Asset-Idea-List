@@ -41,3 +41,11 @@ Intangible Value
 + ?Questions -> Actions
 
 +  Re-Membership + Identity
+
++  Time
+
++  Space
+
++  Appointments / Meeting
+
++  Signature
