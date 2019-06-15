@@ -2,7 +2,9 @@
 
 Intangible Value
 
-+ Time {Management, Ageless Artifact, Eternity }
++ Account, Names,Membership, Reputation, Registry Lists
+
++ Time {Management, Ageless Artifact, Eternity, Skill, Seasons, Travel, Past, Present, Presence, Future, 20%, day, night,  }
 
 + Health
 
@@ -18,7 +20,7 @@ Intangible Value
 
 + Religion
 
-+ Reputation / Brand
++ Reputation / Brand, Names, Account
 
 + Network, Friends
 
